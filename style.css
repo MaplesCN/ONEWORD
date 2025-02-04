@@ -30,6 +30,10 @@ body {
     color: #FFF
 }
 
+.site-featured-image .sticky-tag {
+    background-color: #FFF
+}
+
 .widget_block ul li {
     color: #767676
 }
